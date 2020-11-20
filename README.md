@@ -6,3 +6,5 @@ This project consists of several R scripts for the validation of the InfoFlora d
 2) Model calibration and evaluation
 3) Model projection and conversion into niche innerness indices
 4) Visualisation of the SDMs output through a Shiny App
+
+Trying to understand the commits on gitHub
